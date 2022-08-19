@@ -19,7 +19,11 @@ main().catch((error) => {
 });
 
 //VALID ADDRESS
-//first deployed contract : 0x27E34dAB493C42e1F0368FE6f6Ffe72349875308
+//deployed contract : 0x27E34dAB493C42e1F0368FE6f6Ffe72349875308
+
+//MINTED NFTS
+//https://testnets.opensea.io/assets/rinkeby/0x27e34dab493c42e1f0368fe6f6ffe72349875308/1
+//https://testnets.opensea.io/assets/rinkeby/0x27e34dab493c42e1f0368fe6f6ffe72349875308/0
 
 //Please ignore
 //second deployed contract : 0x135BCe56C719ACd461Ca14A753b48b7E0B7C3592
